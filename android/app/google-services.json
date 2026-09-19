@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "305793167564",
+    "project_id": "kshetraiq-47a71",
+    "storage_bucket": "kshetraiq-47a71.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:305793167564:android:89e709e5215bb65abf5269",
+        "android_client_info": {
+          "package_name": "com.example.kshetraiq"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSiakBa6Mh745th53mivVagSrQ9-qCVT4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
